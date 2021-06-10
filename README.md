@@ -1,0 +1,1 @@
+# asp.netcore-rabbitMQ-docker_example
